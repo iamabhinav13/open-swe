@@ -43,5 +43,5 @@ Open SWE can be used in multiple ways:
 
 # Documentation
 
-To get started using Open SWE locally, see the [documentation here](https://docs.langchain.com/labs/swe/).
+To get started using Open SWE locally, see the [documentation here](https://docs.langchain.com/labs/swe/)
 
